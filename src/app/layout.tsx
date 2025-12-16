@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Linktree - Vellaro",
-  description: "A melhor pizzaria de Campinas - SP",
+  title: "Links - Gratto",
+  description: "A melhor pizza de Farroupilha",
   icons: {
     icon: "/img/vellarofavicon.png", // favicon dentro de public/img
   },
