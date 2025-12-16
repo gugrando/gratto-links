@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Links - Gratto",
   description: "A melhor pizza de Farroupilha",
   icons: {
-    icon: "/img/vellarofavicon.png", // favicon dentro de public/img
+    icon: "/img/gratto-logo.png", // favicon dentro de public/img
   },
 };
 
