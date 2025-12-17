@@ -38,7 +38,7 @@ export default function App() {
           <TreeCard
             title="Site"
             subtitle="Veja nosso Site"
-            href="#"
+            href="https://gratto-site.vercel.app"
             imageSrc="/img/p2.png" 
             iconSrc="/img/web.png"
             layout="imageLeft"           
@@ -46,11 +46,11 @@ export default function App() {
             iconPosition="top-right"
           />
 
-          {/* CARD 2: PEDIDOS */}
+          {/* CARD 2: WHATSAPP */}
           <TreeCard
             title="Whatsapp"
             subtitle="Pedir no WhatsApp (15% OFF)"
-            href="#"
+            href="https://wa.me/54991834554"
             imageSrc="/img/p1.png"
             iconSrc="/img/whatsapp.png"
             layout="imageRight"          
@@ -58,11 +58,11 @@ export default function App() {
             iconPosition="top-left"
           />
 
-          {/* CARD 3: WHATSAPP */}
+          {/* CARD 3: IFOOD */}
           <TreeCard
             title="Ifood"
             subtitle="Pedir no Ifood"
-            href="#"
+            href="https://www.ifood.com.br/delivery/farroupilha-rs/gratto-pizzas-e-xis--gourmet-primeiro-de-maio/b6bd0e74-db0d-4b57-aa24-66de9067bd84?UTM_Medium=share"
             imageSrc="/img/p3.png"
             iconSrc="/img/ifood.png"
             layout="imageLeft"
